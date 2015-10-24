@@ -1,0 +1,6 @@
+c:\users\bodah\documents\visual studio 2015\Projects\LoLChampionsIDParser\LoLChampionsIDParser\bin\Debug\LoLChampionsIDParser.exe.config
+c:\users\bodah\documents\visual studio 2015\Projects\LoLChampionsIDParser\LoLChampionsIDParser\bin\Debug\LoLChampionsIDParser.exe
+c:\users\bodah\documents\visual studio 2015\Projects\LoLChampionsIDParser\LoLChampionsIDParser\bin\Debug\LoLChampionsIDParser.pdb
+c:\users\bodah\documents\visual studio 2015\Projects\LoLChampionsIDParser\LoLChampionsIDParser\obj\Debug\LoLChampionsIDParser.csprojResolveAssemblyReference.cache
+c:\users\bodah\documents\visual studio 2015\Projects\LoLChampionsIDParser\LoLChampionsIDParser\obj\Debug\LoLChampionsIDParser.exe
+c:\users\bodah\documents\visual studio 2015\Projects\LoLChampionsIDParser\LoLChampionsIDParser\obj\Debug\LoLChampionsIDParser.pdb
